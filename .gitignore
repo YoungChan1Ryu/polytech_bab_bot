@@ -1,6 +1,6 @@
 .env
 subscriberList.txt
-.polytech_bab_bot/
+venv/
 nohup.out
 .ipynb_checkpoints/
 *.log
